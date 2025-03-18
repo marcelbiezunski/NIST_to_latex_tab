@@ -5,7 +5,7 @@ NIST Test Results Converter for LaTeX
 This application converts statistical test results from NIST, stored as text files, into a format suitable for LaTeX tables.
 How It Works
 
-To use the functionality, place all folders that may contain the "finalAnalysisReport.txt" in the "nist_folders" folder (which you have to create in the same folder where your application and library are located). These folders can include, for example, the default sts-2.1.2 folders found in cygwin64.
+To use the functionality, place all folders that may contain the "finalAnalysisReport.txt" in the "nist_folders" folder (which you have to create in the same folder where your application and latexlibrary are located). These folders can include, for example, the default sts-2.1.2 folders found in cygwin64.
 
 After running the application, it performs the following three operations:
 
